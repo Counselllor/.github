@@ -32,7 +32,7 @@ The web application, built using ReactJS, is designed to assist students in maki
 
 ## How can I help ?
 
-To start contributing, the easiest way it to join us on Slack <a href="https://join.slack.com/t/counselllor/shared_invite/zt-1w7zos2td-lZBc_52HNvr8Jtvpt4gR5g" target="_blank" rel="noreferrer">
+To start contributing, the easiest way it to join us on Slack <a href="https://join.slack.com/t/counselllor/shared_invite/zt-2ahrfkogz-Yh8gxiiVzln_QuNYgIv8HA" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="70" height="55">
 </a> and post an introduction about, what you're interested in, and what you would like to do. This would allow other contributors to pinpoint projects that could match your interests. For example
 
