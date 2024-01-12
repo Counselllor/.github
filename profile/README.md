@@ -96,9 +96,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Connect with us 🖇️
 
 [![Discord](https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg)](https://discord.com/channels/1099745007172329592/1112438805589413909)
-<a href="https://join.slack.com/t/counselllor/shared_invite/zt-1w7zos2td-lZBc_52HNvr8Jtvpt4gR5g" target="_blank" rel="noreferrer">
+<a href="https://join.slack.com/t/counselllor/shared_invite/zt-2ahrfkogz-Yh8gxiiVzln_QuNYgIv8HA" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="Slack" width="70" height="55">
 </a>
+
 
 
 ## Contact 📞
